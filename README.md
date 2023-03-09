@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Daniel Pasion and I am currently attending Cal Poly Pomona. 
+- 👋 Hi, My name is Daniel Pasion and I am a second year at Cal Poly Pomona 
 - 
 - 👀 I’m currently interested in expanding my knowledge in the realms of Software Engineering and Data Analytics
 - 
