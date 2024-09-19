@@ -8,4 +8,3 @@
 
 - 📧 Email: dnpaxion@gmail.com || dpasion@cpp.edu
 - 📘 Linkedin: https://www.linkedin.com/in/daniel-pasion-9b364a1b7/
-- skibidi
