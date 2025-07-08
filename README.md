@@ -1,8 +1,8 @@
 # Hello There 👋   
 ### I'm Daniel Pasion :)
 
-- I'm currently a Junior Web Developer at Trusted American Insurance Agency
-- It is also my fourth and final year at Cal Poly Pomona as a Computer Science Major
+- I'm currently a Software Developer at Trusted American Insurance Agency & Scroll.Care
+- I attended Cal Poly Pomona and earned my BS in Computer Science in 2025
 - I am interested in Software Engineering, specifically in Web Development
 - Feel free to connect with me or reach out
 
